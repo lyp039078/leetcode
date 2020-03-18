@@ -6,7 +6,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "1",
-    "status": "",
+    "status": "ac",
     "title": "两数之和",
     "titleSlug": "two-sum"
   },
@@ -28,7 +28,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "3",
-    "status": "",
+    "status": "ac",
     "title": "无重复字符的最长子串",
     "titleSlug": "longest-substring-without-repeating-characters"
   },
