@@ -1111,14 +1111,14 @@
     "titleSlug": "symmetric-tree"
   },
   {
-    "formTitle": "[102]二叉树的层次遍历",
+    "formTitle": "[102]二叉树的层序遍历",
     "frontendQuestionId": "102",
     "leaf": true,
     "level": 2,
     "nodeType": "def",
     "questionId": "102",
     "status": "",
-    "title": "二叉树的层次遍历",
+    "title": "二叉树的层序遍历",
     "titleSlug": "binary-tree-level-order-traversal"
   },
   {
@@ -1661,14 +1661,14 @@
     "titleSlug": "reverse-words-in-a-string"
   },
   {
-    "formTitle": "[152]乘积最大子序列",
+    "formTitle": "[152]乘积最大子数组",
     "frontendQuestionId": "152",
     "leaf": true,
     "level": 2,
     "nodeType": "def",
     "questionId": "152",
     "status": "",
-    "title": "乘积最大子序列",
+    "title": "乘积最大子数组",
     "titleSlug": "maximum-product-subarray"
   },
   {
@@ -3003,14 +3003,14 @@
     "titleSlug": "integer-to-english-words"
   },
   {
-    "formTitle": "[274]H指数",
+    "formTitle": "[274]H 指数",
     "frontendQuestionId": "274",
     "leaf": true,
     "level": 2,
     "nodeType": "def",
     "questionId": "274",
     "status": "",
-    "title": "H指数",
+    "title": "H 指数",
     "titleSlug": "h-index"
   },
   {
@@ -10978,14 +10978,14 @@
     "titleSlug": "maximum-binary-tree-ii"
   },
   {
-    "formTitle": "[999]车的可用捕获量",
+    "formTitle": "[999]可以被一步捕获的棋子数",
     "frontendQuestionId": "999",
     "leaf": true,
     "level": 1,
     "nodeType": "def",
     "questionId": "1041",
     "status": "",
-    "title": "车的可用捕获量",
+    "title": "可以被一步捕获的棋子数",
     "titleSlug": "available-captures-for-rook"
   },
   {
@@ -15211,6 +15211,160 @@
     "status": "",
     "title": "最大的团队表现值",
     "titleSlug": "maximum-performance-of-a-team"
+  },
+  {
+    "formTitle": "[1384]按年度列出销售总额",
+    "frontendQuestionId": "1384",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1518",
+    "status": "lock",
+    "title": "按年度列出销售总额",
+    "titleSlug": "total-sales-amount-by-year"
+  },
+  {
+    "formTitle": "[1385]两个数组间的距离值",
+    "frontendQuestionId": "1385",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1486",
+    "status": "",
+    "title": "两个数组间的距离值",
+    "titleSlug": "find-the-distance-value-between-two-arrays"
+  },
+  {
+    "formTitle": "[1386]安排电影院座位",
+    "frontendQuestionId": "1386",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1487",
+    "status": "",
+    "title": "安排电影院座位",
+    "titleSlug": "cinema-seat-allocation"
+  },
+  {
+    "formTitle": "[1387]将整数按权重排序",
+    "frontendQuestionId": "1387",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1488",
+    "status": "",
+    "title": "将整数按权重排序",
+    "titleSlug": "sort-integers-by-the-power-value"
+  },
+  {
+    "formTitle": "[1388]3n 块披萨",
+    "frontendQuestionId": "1388",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1489",
+    "status": "",
+    "title": "3n 块披萨",
+    "titleSlug": "pizza-with-3n-slices"
+  },
+  {
+    "formTitle": "[1389]按既定顺序创建目标数组",
+    "frontendQuestionId": "1389",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1505",
+    "status": "",
+    "title": "按既定顺序创建目标数组",
+    "titleSlug": "create-target-array-in-the-given-order"
+  },
+  {
+    "formTitle": "[1390]四因数",
+    "frontendQuestionId": "1390",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1284",
+    "status": "",
+    "title": "四因数",
+    "titleSlug": "four-divisors"
+  },
+  {
+    "formTitle": "[1391]检查网格中是否存在有效路径",
+    "frontendQuestionId": "1391",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1507",
+    "status": "",
+    "title": "检查网格中是否存在有效路径",
+    "titleSlug": "check-if-there-is-a-valid-path-in-a-grid"
+  },
+  {
+    "formTitle": "[1392]最长快乐前缀",
+    "frontendQuestionId": "1392",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1508",
+    "status": "",
+    "title": "最长快乐前缀",
+    "titleSlug": "longest-happy-prefix"
+  },
+  {
+    "formTitle": "[1393]Capital Gain/Loss",
+    "frontendQuestionId": "1393",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1523",
+    "status": "lock",
+    "title": "Capital Gain/Loss",
+    "titleSlug": "capital-gainloss"
+  },
+  {
+    "formTitle": "[1394]找出数组中的幸运数",
+    "frontendQuestionId": "1394",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1510",
+    "status": "",
+    "title": "找出数组中的幸运数",
+    "titleSlug": "find-lucky-integer-in-an-array"
+  },
+  {
+    "formTitle": "[1395]统计作战单位数",
+    "frontendQuestionId": "1395",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1511",
+    "status": "",
+    "title": "统计作战单位数",
+    "titleSlug": "count-number-of-teams"
+  },
+  {
+    "formTitle": "[1396]设计地铁系统",
+    "frontendQuestionId": "1396",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1512",
+    "status": "",
+    "title": "设计地铁系统",
+    "titleSlug": "design-underground-system"
+  },
+  {
+    "formTitle": "[1397]找到所有好字符串",
+    "frontendQuestionId": "1397",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1513",
+    "status": "",
+    "title": "找到所有好字符串",
+    "titleSlug": "find-all-good-strings"
   },
   {
     "formTitle": "[LCP 1]猜数字",
