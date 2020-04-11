@@ -62,11 +62,10 @@ class Solution:
         i = 0
         while i < len(s):
             if i != len(s) - 1 and letter_tuple.index(s[i]) < letter_tuple.index(s[i + 1]):
-                count += letter_dict[s[i + 1]] - letter_dict[s[i]]
-                i += 2
+                count -= letter_dict[s[i]]
             else:
                 count += letter_dict[s[i]]
-                i += 1
+            i += 1
         return count
 
 # leetcode submit region end(Prohibit modification and deletion)

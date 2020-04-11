@@ -7052,6 +7052,11 @@
         "__typename": "AppliedTranslationNode"
       },
       {
+        "questionId": "1527",
+        "title": "\u7ed9 N x 3 \u7f51\u683c\u56fe\u6d82\u8272\u7684\u65b9\u6848\u6570",
+        "__typename": "AppliedTranslationNode"
+      },
+      {
         "questionId": "1536",
         "title": "\u8d2d\u4e70\u4e86\u4ea7\u54c1A\u548c\u4ea7\u54c1B\u5374\u6ca1\u6709\u8d2d\u4e70\u4ea7\u54c1C\u7684\u987e\u5ba2",
         "__typename": "AppliedTranslationNode"

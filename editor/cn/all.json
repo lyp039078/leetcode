@@ -103,7 +103,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "9",
-    "status": "",
+    "status": "ac",
     "title": "回文数",
     "titleSlug": "palindrome-number"
   },
@@ -151,7 +151,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "13",
-    "status": "",
+    "status": "ac",
     "title": "罗马数字转整数",
     "titleSlug": "roman-to-integer"
   },
