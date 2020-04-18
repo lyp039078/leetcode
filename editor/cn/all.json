@@ -247,7 +247,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "21",
-    "status": "",
+    "status": "ac",
     "title": "合并两个有序链表",
     "titleSlug": "merge-two-sorted-lists"
   },
@@ -307,7 +307,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "26",
-    "status": "",
+    "status": "ac",
     "title": "删除排序数组中的重复项",
     "titleSlug": "remove-duplicates-from-sorted-array"
   },
@@ -331,7 +331,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "28",
-    "status": "",
+    "status": "ac",
     "title": "实现 strStr()",
     "titleSlug": "implement-strstr"
   },
@@ -16933,8 +16933,8 @@
   },
   {
     "articleLive": 2,
-    "formTitle": "[LCP 1]猜数字",
-    "frontendQuestionId": "LCP 1",
+    "formTitle": "[LCP 01]猜数字",
+    "frontendQuestionId": "LCP 01",
     "leaf": true,
     "level": 1,
     "nodeType": "def",
@@ -16945,8 +16945,8 @@
   },
   {
     "articleLive": 2,
-    "formTitle": "[LCP 2]分式化简",
-    "frontendQuestionId": "LCP 2",
+    "formTitle": "[LCP 02]分式化简",
+    "frontendQuestionId": "LCP 02",
     "leaf": true,
     "level": 1,
     "nodeType": "def",
@@ -16957,8 +16957,8 @@
   },
   {
     "articleLive": 2,
-    "formTitle": "[LCP 3]机器人大冒险",
-    "frontendQuestionId": "LCP 3",
+    "formTitle": "[LCP 03]机器人大冒险",
+    "frontendQuestionId": "LCP 03",
     "leaf": true,
     "level": 2,
     "nodeType": "def",
@@ -16969,8 +16969,8 @@
   },
   {
     "articleLive": 2,
-    "formTitle": "[LCP 4]覆盖",
-    "frontendQuestionId": "LCP 4",
+    "formTitle": "[LCP 04]覆盖",
+    "frontendQuestionId": "LCP 04",
     "leaf": true,
     "level": 3,
     "nodeType": "def",
@@ -16981,8 +16981,8 @@
   },
   {
     "articleLive": 2,
-    "formTitle": "[LCP 5]发 LeetCoin",
-    "frontendQuestionId": "LCP 5",
+    "formTitle": "[LCP 05]发 LeetCoin",
+    "frontendQuestionId": "LCP 05",
     "leaf": true,
     "level": 3,
     "nodeType": "def",
@@ -16990,6 +16990,66 @@
     "status": "",
     "title": "发 LeetCoin",
     "titleSlug": "coin-bonus"
+  },
+  {
+    "articleLive": 2,
+    "formTitle": "[LCP 06]拿硬币",
+    "frontendQuestionId": "LCP 06",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1000056",
+    "status": "",
+    "title": "拿硬币",
+    "titleSlug": "na-ying-bi"
+  },
+  {
+    "articleLive": 2,
+    "formTitle": "[LCP 07]传递信息",
+    "frontendQuestionId": "LCP 07",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1000063",
+    "status": "",
+    "title": "传递信息",
+    "titleSlug": "chuan-di-xin-xi"
+  },
+  {
+    "articleLive": 2,
+    "formTitle": "[LCP 08]剧情触发时间",
+    "frontendQuestionId": "LCP 08",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1000057",
+    "status": "",
+    "title": "剧情触发时间",
+    "titleSlug": "ju-qing-hong-fa-shi-jian"
+  },
+  {
+    "articleLive": 2,
+    "formTitle": "[LCP 09]最小跳跃次数",
+    "frontendQuestionId": "LCP 09",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1000090",
+    "status": "",
+    "title": "最小跳跃次数",
+    "titleSlug": "zui-xiao-tiao-yue-ci-shu"
+  },
+  {
+    "articleLive": 2,
+    "formTitle": "[LCP 10]二叉树任务调度",
+    "frontendQuestionId": "LCP 10",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1000062",
+    "status": "",
+    "title": "二叉树任务调度",
+    "titleSlug": "er-cha-shu-ren-wu-diao-du"
   },
   {
     "articleLive": 2,
