@@ -15,10 +15,10 @@
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode(object):
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 
 class Solution:
     def addTwoNumbers(self, l1, l2):
@@ -28,5 +28,36 @@ class Solution:
         :param l2:
         :return:
         """
-        print(l1.next())
+        # print(dir(l1))
+        # print(l1)
+        # print(l1.val)
+        # print(repr(l1.var()))
+        # print(l1.next())
+        l1_list = []
+        l2_list = []
+        res_list = []
+        if not l1 or not l2:
+            return l1 if not l1 else l2
+
+        while l1 is not None:
+            l1_list.append(l1.val)
+            l1 = l1.next
+        while l2 is not None:
+            l2_list.append(l2.val)
+            l2 = l2.next
+        l1_number = int("".join(map(str, reversed(l1_list))))
+        l2_number = int("".join(map(str, reversed(l2_list))))
+        res_number = l1_number + l2_number
+        # print("res_number: {}".format(res_number))
+        res_list = [int(i) for i in str(res_number)[::-1]]
+        # print("res_list: %s" % res_list)
+
+        res_list_node = None
+        while res_list:
+            res_list_node = ListNode(res_list.pop(), res_list_node)
+            # print("res_list_node: %s" % res_list_node)
+
+        return res_list_node
+
+
 # leetcode submit region end(Prohibit modification and deletion)
