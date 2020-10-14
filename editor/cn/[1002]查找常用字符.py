@@ -42,14 +42,8 @@ class Solution(object):
             res_list = []
             for letter in first_value_set:
                 # 计算出现次数的最小值
-                min_count = A[0].count(letter)
-                for index in range(len(A)):
-                    if A[index].count(letter) < min_count:
-                        min_count = A[index].count(letter)
-                    # 删除字母
-                    A[index] = A[index].replace(letter, "")
-                # 添加 字母*出现的最小次数
-                res_list.extend(letter*min_count)
+                min_count = min(a.count(letter) for a in A)
+                res_list += letter*min_count
             return res_list
 
 
